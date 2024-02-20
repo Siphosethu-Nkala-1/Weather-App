@@ -22,7 +22,7 @@ header {
   font-size: 14px;
 }
 body {
-  background-color: #f9f9f9;
+  background: linear-gradient(0deg,#fff1eb 0,#ace0f9);
   font-family: "Montserrat", sans-serif;
 }
 
